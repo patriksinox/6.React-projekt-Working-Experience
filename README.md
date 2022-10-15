@@ -10,3 +10,5 @@
           Návrh projektu je jeho. Kód je môj 😊. V Projekte som použil
           Vanilla JS s Reactom - fetch dát, useState, useEffect a React ikony. 
         </p>
+
+https://6-react-project-working.netlify.app/
